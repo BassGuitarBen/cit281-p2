@@ -9,4 +9,4 @@ Project files available at [Project 2 Commits](https://bassguitarben.github.io/c
 
 Project files available at [Project 2 files](https://bassguitarben.github.io/cit281-p2/p2-files.txt)
 
-Project files available at [Project 2 Diff png](https://bassguitarben.github.io/cit281-p2/p2-png.png)
+Project files available at [Project 2 Diff png](https://bassguitarben.github.io/cit281-p2/p2-vscode-diff.PNG)
